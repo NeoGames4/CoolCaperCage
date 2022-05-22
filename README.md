@@ -1,2 +1,6 @@
 # CoolCaperCage
-A simple platform jump game (just like Doodle Jump) in Java.
+A simple platform game (similar to Doodle Jump, for example) written in Java.
+
+Version 1.0
+
+<h3>Download <a href="">here</a> (runnable jar)</h3>
